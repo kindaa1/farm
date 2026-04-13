@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 44dee0678d5ae4ffc9429ae468816067
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bedf9a037ca84f679b4ed703bca9327
+      internalID: 52987135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d5bb6a91dc4a29ba5504b6f0060c5
+      internalID: 608270642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a0dbe0b0564f2890e24e809123a9d
+      internalID: 792384933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c670f69397636432c92ab9819fea3538
+      internalID: 1469754304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda969238a90a4e0bb8d5d22370b7cd7
+      internalID: 1153195066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840788bd2df104c67a2fe84e07d95955
+      internalID: -132188319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b31ea1e81e445fa61e54b976e90bf
+      internalID: 1305264563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21d24bbe0514b9c81f1631e4b0a45f
+      internalID: -206872266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a22a6e4178e40e6877451419204bfd
+      internalID: 1903600694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed35b34113974a04a5550ff910e2e98
+      internalID: -746962852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46e1df356dee404c91787e5cb641fb8
+      internalID: -1314453060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6435e290cd448b2aa050f8cb115221
+      internalID: 651332240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970a70720afc24a76a01ffcfa08984cb
+      internalID: -1466308943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76019c17f81cf4941b7595c4ad8a66f0
+      internalID: -1301285557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaaa5463bc4a40938564a288876539b
+      internalID: -1496838312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc68eb1d826d480584e7835b58a8d1e
+      internalID: 795948266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2431352c900094190b0580fe9445d433
+      internalID: -1193833582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361b2a12393a41bfadc18cdbd68e870
+      internalID: 892391672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8acc8cbcc249f99908e3b76286b30
+      internalID: 471086688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18798f9e275947bd9522490afd2f073
+      internalID: 27148890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893b2543b4a2413f8c8a1a9097f1f9d
+      internalID: -1933823514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1048dc0cf64569a13c825fa123aa6
+      internalID: 2030060187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96feebb2925574ca58b4996ee6d4e899
+      internalID: 1616652123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 970
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d0e24fcafc44a693d328838265ffb
+      internalID: -63117290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bffb541750643958bd8bc3868bc5cb
+      internalID: 1243271647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a21e437c4d4ac980a593e45ac1d94
+      internalID: 154349897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69222b4bfa1084588977baadb8c904c6
+      internalID: -224091862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c389523950d541b89fcde0364c6f573
+      internalID: 309122470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d619d4dd524aadbb5babc404e9466
+      internalID: -58030900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37404a20f8cb447acb6c9dd8e1667890
+      internalID: -678612630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf84cfee9a2b84cd6a0cafed67335b18
+      internalID: -1493073491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunnyside_World_ExampleScene_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 470
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744881cac982e43638c26a9bb4ab677b
+      internalID: -308413517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sunnyside_World_ExampleScene_0: 52987135
+      Sunnyside_World_ExampleScene_1: 608270642
+      Sunnyside_World_ExampleScene_10: -1314453060
+      Sunnyside_World_ExampleScene_11: 651332240
+      Sunnyside_World_ExampleScene_12: -1466308943
+      Sunnyside_World_ExampleScene_13: -1301285557
+      Sunnyside_World_ExampleScene_14: -1496838312
+      Sunnyside_World_ExampleScene_15: 795948266
+      Sunnyside_World_ExampleScene_16: -1193833582
+      Sunnyside_World_ExampleScene_17: 892391672
+      Sunnyside_World_ExampleScene_18: 471086688
+      Sunnyside_World_ExampleScene_19: 27148890
+      Sunnyside_World_ExampleScene_2: 792384933
+      Sunnyside_World_ExampleScene_20: -1933823514
+      Sunnyside_World_ExampleScene_21: 2030060187
+      Sunnyside_World_ExampleScene_22: 1616652123
+      Sunnyside_World_ExampleScene_23: -63117290
+      Sunnyside_World_ExampleScene_24: 1243271647
+      Sunnyside_World_ExampleScene_25: 154349897
+      Sunnyside_World_ExampleScene_26: -224091862
+      Sunnyside_World_ExampleScene_27: 309122470
+      Sunnyside_World_ExampleScene_28: -58030900
+      Sunnyside_World_ExampleScene_29: -678612630
+      Sunnyside_World_ExampleScene_3: 1469754304
+      Sunnyside_World_ExampleScene_30: -1493073491
+      Sunnyside_World_ExampleScene_31: -308413517
+      Sunnyside_World_ExampleScene_4: 1153195066
+      Sunnyside_World_ExampleScene_5: -132188319
+      Sunnyside_World_ExampleScene_6: 1305264563
+      Sunnyside_World_ExampleScene_7: -206872266
+      Sunnyside_World_ExampleScene_8: 1903600694
+      Sunnyside_World_ExampleScene_9: -746962852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

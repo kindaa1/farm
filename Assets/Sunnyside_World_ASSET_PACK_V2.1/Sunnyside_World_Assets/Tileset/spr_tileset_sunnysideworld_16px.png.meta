@@ -1,0 +1,2160 @@
+fileFormatVersion: 2
+guid: 0cd00ed217c5642169c59452558e5a49
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 952
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb83c67e4f685480dac25ea07febb5b4
+      internalID: 1462891846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_1
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 946
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf332a2eb2eca49c89e123b054c5f731
+      internalID: -708116606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 651
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9398e09cc440e5aa42fb72745c45a
+      internalID: 347914520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 388
+        width: 78
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43518412, y: 0.47295558}
+      border: {x: 0, y: 33, z: 78, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88781a8f846e400abcf1140a5c05cb7
+      internalID: -2145625570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 949
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad11de86da9e4f75a1fcffa51ac1952
+      internalID: -1593964918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 946
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 9, z: 21, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44643dc335b0e44adb93c6dd3dff7477
+      internalID: 450809821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 949
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.6036595, y: 0.3240902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c167fa6cec3f64e44bd670e88ce3d11e
+      internalID: 1060143870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 1000
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b1a4df6ef7b4cc49d5f7a55daa8d1d
+      internalID: -1757839263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 17
+        height: 57
+      alignment: 9
+      pivot: {x: 0.57347196, y: 0.4353702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f497ced774e495e9e61ae0636dfc35
+      internalID: -399353598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 924
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be336181dcf6344b1bce050164bec526
+      internalID: 1790533065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 264
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e48b8bb1d2a4d68bbaf23fbe287066
+      internalID: 1096663798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 878
+        width: 227
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95bc2db6f2642ac8fd4585780ba02d
+      internalID: 1188562937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 672
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7023b662a3fc476c9d060003127e308
+      internalID: 2077091156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 319
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763014f8f9a684b9d8f1f2cd6c7c356f
+      internalID: -1570848317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 653
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b027767766a584ce08b26d52a9010167
+      internalID: 708978507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 657
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b62820964de4517aedd86ffcf4cc8a
+      internalID: -1549455555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 962
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c338d207fc4f8db56b8d289440264
+      internalID: 488470663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 918
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf2faa8bb6e47438dcd46cbdb477b9
+      internalID: 1385345466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 660
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459393b0ba2f48d3b015415e6851c5e
+      internalID: -1872003060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 978
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12935adcd0890469ab73e6acf7d5b5d7
+      internalID: 864234285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 992
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d8eb1a5b85b49e38797018fb87982f
+      internalID: -154463942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_21
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 561
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21224380077b347ff8c551053a3a4ef8
+      internalID: 695539610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_22
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 841
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21344f844efb4564a64e1476804b742
+      internalID: -2112426679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 489
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6b75c65aaf4bd7a5ebb8b689045f7
+      internalID: 2016893347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_24
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 403
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc67694edfd234f5fa25e13591e4ad3d
+      internalID: 1457920888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 542
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af043c88c1eb84222af63a1eb7f9149f
+      internalID: 1356248991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 720
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d962db49f9d4110b11df6813bec181
+      internalID: 1427043701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 661
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1026e17385d0947dc816c14fcfcb443f
+      internalID: -1039542459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 901
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ef941488c143a49c707402dcffdf6
+      internalID: -94337805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 944
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe4b34907f1a4100b574ed7f7b90e79
+      internalID: -1511369350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_30
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 844
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5483744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25dd92468a484ad8bc99e22f3194885
+      internalID: 1042926973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_31
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 546
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a292b77554524362a90a2671d2cdcd2
+      internalID: -1771900056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_32
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 527
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece7a8f9c8da4d6d8ae4638b05aaf09
+      internalID: 451407668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_33
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 669
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1df4ffeacde4abf8dd24ebfcacdfdc
+      internalID: 1423809563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_34
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 796
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b63cb38a284aeb8f60cf7a1d0ffc1
+      internalID: -1532029089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 737
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290bc459e77ad49419238cc96114502a
+      internalID: -705667065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 864
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3931f935f5342ac9def48fb0678e08
+      internalID: 1331546584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 814
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7fad8902654273ba62923f96c256e
+      internalID: -4513092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 380
+        width: 137
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fdb825a43354f45b1e3573916ec54d
+      internalID: -809896066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 417
+        width: 141
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e968e386b54fae8f0660ce93f492a
+      internalID: -330850014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 544
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4796b171981a4993b0f3b6cbe491345
+      internalID: -256194492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 506
+        width: 136
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1a18a8bf5f4b9bbf173bd1fe1381c
+      internalID: 1042795319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 800
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d521f940b7243f3bb865fbe45af18a
+      internalID: 479190273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 816
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52c7ce1a592f41758767e33598b6e62
+      internalID: -738081316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e935759a87474abab3a1b73dddfd9
+      internalID: 542566314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_45
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 591
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232adb5d9d53c43ab8257c3a86c85270
+      internalID: -1933846172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59e9466c1994860b22b56bf7d1523d
+      internalID: -706023243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 463
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e5bc534ac240788117fd2a13519c0
+      internalID: 1787969270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 560
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a9290bef0949a8b41464262c0492b
+      internalID: -723098270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e1e99c817143c3b38a4b730c53f5e
+      internalID: -281958163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 429
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150581eb15db4ee9ab47a67dcece9d5
+      internalID: 1933732852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 556
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db973bd78629f4c7e956eae433dc6134
+      internalID: 1250991092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 413
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a048120c7654aa889176fc60d10114
+      internalID: 1017678437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_53
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 897
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d0a6e915d34fdd8a25daaf1a9143b
+      internalID: 951812192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_54
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 898
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678cab0e8efb46ea8fbc372a673f501
+      internalID: 754483348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 898
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146cb7113cb7e4c7dad264c4ac7b95f5
+      internalID: -2026826987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 881
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ab13559514413ea80f645a5b09084
+      internalID: 1411740003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 898
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4f9270cd8444abf826ee3407ab5af3
+      internalID: 211335985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_58
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 963
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93557bcb49aea4a67bf3bc1c67f520d7
+      internalID: -555922956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 961
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11681ae7b06465c971bbce1c428499
+      internalID: 1031255670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_60
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 912
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61dbf34ac15345f6a00d53091a1d5ff
+      internalID: -1728753253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 864
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c0d5ecb57154d3c87fb2b2b39c6722
+      internalID: 1117158641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 763
+        width: 127
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b81a13f586614e5fa587d9dd33b0fb4
+      internalID: -1878365631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_63
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 799
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b0c01a1faf4a889554418bf6240b0
+      internalID: -1630354254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_64
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 817
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28b958327cf491987b27cce5b1a02b
+      internalID: -942825257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_65
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 397
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed63ea4b1ad40fe8dc6eddc9db66bc
+      internalID: 899623457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_66
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 417
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf2915c4a9314a26bd740954161120c
+      internalID: 416279368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_67
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 438
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f191f87c4648eebb07394360a5a2c
+      internalID: -2080941077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_68
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 527
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe06bbd112ee42e1815ce439efe53b4
+      internalID: -390222353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_69
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 534
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a421b6420af94e42bd8e20e54f56ade
+      internalID: -651344589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_70
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 738
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678a72de166c9458ab9cfdcbfa82428a
+      internalID: -35163590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 737
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171daf985bf5b48858c0f65de143158d
+      internalID: 1993154071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_72
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 732
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf50e9bbb3574ad297e5414bd7c4d4d
+      internalID: -888389254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_73
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 772
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d1592b5792478bb8c1ad1affdc957
+      internalID: 367173794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_74
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 770
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233b9dd944c445cbb7849ea56980c81
+      internalID: -1590314471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 769
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84529cb93a4dc42ecba5ad0895550b92
+      internalID: 1806925262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_76
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 991
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab30d86b48a449b9988d9da996d827e
+      internalID: 938336836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_77
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 975
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a40c7575214465988ad6856b903f92
+      internalID: -175424597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 701
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031d5a65429b45868c27d37bb9e1699
+      internalID: 1615195963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 721
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6429998a2b6a40029344fc293749524
+      internalID: 909161064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_80
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 673
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895119cad93b34f1ab1844d049c26cf5
+      internalID: 812269579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_81
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 703
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae383a40f9b634557803dab88509ac6b
+      internalID: -527964002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 655
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8197cb27796634bb9b94c7b43069e575
+      internalID: 149912081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 634
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca35f0cce4056464cb5570d675340d82
+      internalID: 1947355433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_84
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 672
+        width: 136
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e5aebf844a46fd875ad841588a6cd
+      internalID: -1725517048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_85
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1013
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b0fd59452a4c139cc9ec8d6bf9ffa
+      internalID: 2007966361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 881
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3deb08c236b44d08127cfbd310a4c0
+      internalID: 137356986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_87
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 897
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202fd928e3be144f8bd0b76928070882
+      internalID: 390488062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 925
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ccf6dca8c184a6d833704954e39ccd
+      internalID: -1832418549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_89
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 993
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7aa2d8eb8f94c79903d69c219b72b7
+      internalID: 155751619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 993
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa9022675b543e6b45638a6b9ac763
+      internalID: 1500381093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 508
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f7de2d3ba84c34a4c10755177c70d
+      internalID: 834572441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_tileset_sunnysideworld_16px_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 497
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73173c64d74544d78feac28180ae418
+      internalID: 1903785303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_tileset_sunnysideworld_16px_0: 1462891846
+      spr_tileset_sunnysideworld_16px_1: -708116606
+      spr_tileset_sunnysideworld_16px_10: 1096663798
+      spr_tileset_sunnysideworld_16px_11: 1188562937
+      spr_tileset_sunnysideworld_16px_12: 2077091156
+      spr_tileset_sunnysideworld_16px_13: -1570848317
+      spr_tileset_sunnysideworld_16px_14: 708978507
+      spr_tileset_sunnysideworld_16px_15: -1549455555
+      spr_tileset_sunnysideworld_16px_16: 488470663
+      spr_tileset_sunnysideworld_16px_17: 1385345466
+      spr_tileset_sunnysideworld_16px_18: -1872003060
+      spr_tileset_sunnysideworld_16px_19: 864234285
+      spr_tileset_sunnysideworld_16px_2: 347914520
+      spr_tileset_sunnysideworld_16px_20: -154463942
+      spr_tileset_sunnysideworld_16px_21: 695539610
+      spr_tileset_sunnysideworld_16px_22: -2112426679
+      spr_tileset_sunnysideworld_16px_23: 2016893347
+      spr_tileset_sunnysideworld_16px_24: 1457920888
+      spr_tileset_sunnysideworld_16px_25: 1356248991
+      spr_tileset_sunnysideworld_16px_26: 1427043701
+      spr_tileset_sunnysideworld_16px_27: -1039542459
+      spr_tileset_sunnysideworld_16px_28: -94337805
+      spr_tileset_sunnysideworld_16px_29: -1511369350
+      spr_tileset_sunnysideworld_16px_3: -2145625570
+      spr_tileset_sunnysideworld_16px_30: 1042926973
+      spr_tileset_sunnysideworld_16px_31: -1771900056
+      spr_tileset_sunnysideworld_16px_32: 451407668
+      spr_tileset_sunnysideworld_16px_33: 1423809563
+      spr_tileset_sunnysideworld_16px_34: -1532029089
+      spr_tileset_sunnysideworld_16px_35: -705667065
+      spr_tileset_sunnysideworld_16px_36: 1331546584
+      spr_tileset_sunnysideworld_16px_37: -4513092
+      spr_tileset_sunnysideworld_16px_38: -809896066
+      spr_tileset_sunnysideworld_16px_39: -330850014
+      spr_tileset_sunnysideworld_16px_4: -1593964918
+      spr_tileset_sunnysideworld_16px_40: -256194492
+      spr_tileset_sunnysideworld_16px_41: 1042795319
+      spr_tileset_sunnysideworld_16px_42: 479190273
+      spr_tileset_sunnysideworld_16px_43: -738081316
+      spr_tileset_sunnysideworld_16px_44: 542566314
+      spr_tileset_sunnysideworld_16px_45: -1933846172
+      spr_tileset_sunnysideworld_16px_46: -706023243
+      spr_tileset_sunnysideworld_16px_47: 1787969270
+      spr_tileset_sunnysideworld_16px_48: -723098270
+      spr_tileset_sunnysideworld_16px_49: -281958163
+      spr_tileset_sunnysideworld_16px_5: 450809821
+      spr_tileset_sunnysideworld_16px_50: 1933732852
+      spr_tileset_sunnysideworld_16px_51: 1250991092
+      spr_tileset_sunnysideworld_16px_52: 1017678437
+      spr_tileset_sunnysideworld_16px_53: 951812192
+      spr_tileset_sunnysideworld_16px_54: 754483348
+      spr_tileset_sunnysideworld_16px_55: -2026826987
+      spr_tileset_sunnysideworld_16px_56: 1411740003
+      spr_tileset_sunnysideworld_16px_57: 211335985
+      spr_tileset_sunnysideworld_16px_58: -555922956
+      spr_tileset_sunnysideworld_16px_59: 1031255670
+      spr_tileset_sunnysideworld_16px_6: 1060143870
+      spr_tileset_sunnysideworld_16px_60: -1728753253
+      spr_tileset_sunnysideworld_16px_61: 1117158641
+      spr_tileset_sunnysideworld_16px_62: -1878365631
+      spr_tileset_sunnysideworld_16px_63: -1630354254
+      spr_tileset_sunnysideworld_16px_64: -942825257
+      spr_tileset_sunnysideworld_16px_65: 899623457
+      spr_tileset_sunnysideworld_16px_66: 416279368
+      spr_tileset_sunnysideworld_16px_67: -2080941077
+      spr_tileset_sunnysideworld_16px_68: -390222353
+      spr_tileset_sunnysideworld_16px_69: -651344589
+      spr_tileset_sunnysideworld_16px_7: -1757839263
+      spr_tileset_sunnysideworld_16px_70: -35163590
+      spr_tileset_sunnysideworld_16px_71: 1993154071
+      spr_tileset_sunnysideworld_16px_72: -888389254
+      spr_tileset_sunnysideworld_16px_73: 367173794
+      spr_tileset_sunnysideworld_16px_74: -1590314471
+      spr_tileset_sunnysideworld_16px_75: 1806925262
+      spr_tileset_sunnysideworld_16px_76: 938336836
+      spr_tileset_sunnysideworld_16px_77: -175424597
+      spr_tileset_sunnysideworld_16px_78: 1615195963
+      spr_tileset_sunnysideworld_16px_79: 909161064
+      spr_tileset_sunnysideworld_16px_8: -399353598
+      spr_tileset_sunnysideworld_16px_80: 812269579
+      spr_tileset_sunnysideworld_16px_81: -527964002
+      spr_tileset_sunnysideworld_16px_82: 149912081
+      spr_tileset_sunnysideworld_16px_83: 1947355433
+      spr_tileset_sunnysideworld_16px_84: -1725517048
+      spr_tileset_sunnysideworld_16px_85: 2007966361
+      spr_tileset_sunnysideworld_16px_86: 137356986
+      spr_tileset_sunnysideworld_16px_87: 390488062
+      spr_tileset_sunnysideworld_16px_88: -1832418549
+      spr_tileset_sunnysideworld_16px_89: 155751619
+      spr_tileset_sunnysideworld_16px_9: 1790533065
+      spr_tileset_sunnysideworld_16px_90: 1500381093
+      spr_tileset_sunnysideworld_16px_91: 834572441
+      spr_tileset_sunnysideworld_16px_92: 1903785303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
