@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Test_Wyona_2D.unity
+    guid: 50b092161fd624e34b2e6a83f79ce72b
+  - enabled: 1
+    path: Assets/Scenes/House interior.unity
+    guid: 34e0ffff8b32a4f3c8f25074658f743b
   m_configObjects: {}
